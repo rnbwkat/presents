@@ -26,8 +26,8 @@ TBD
 
 ## 📫 Connect With Me
 
-- **LinkedIn**: [Your Name](https://linkedin.com/in/katfitzgerald)
-- **Website**: [YourWebsite.com](https://bsideschicago.org)
+- **LinkedIn**: [Kat fitzgerald](https://linkedin.com/in/katfitzgerald)
+- **Website**: [BSidesChicago](https://bsideschicago.org)
 
 ---
 
