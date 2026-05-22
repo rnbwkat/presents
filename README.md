@@ -1,7 +1,9 @@
 # 🌈 rnbwkat
 
 ## About Me
-Chicago-based and proudly a natural creature of winter, I thrive on snow, OSS, and just the right amount of chaos. Whether sipping Grand Mayan Extra Añejo or warding off cyber threats with a mix of honeypots, magic spells, and a very opinionated flamingo named Sasha (the BSidesChicago.org mascot), I keep things interesting. Honeypots and refrigerators rank among my favorite things—though my neighbors would likely disagree.
+Porto based and powered by chaos, I split my time between Portugal, Chicago, and wherever the next conference or suspicious packet capture happens to be. Equal parts cybersecurity architect, honeypot wrangler, and frequent flyer with a questionable relationship to gravity, I run a growing Honeypot Empire designed to annoy attackers around the globe!!
+
+When not speaking at security conferences or building deceptive little digital trapdoors for internet goblins, I can usually be found hopping continents, mentoring folks in cybersecurity, sipping dangerously good tequila, or voluntarily jumping out of perfectly functional airplanes. Sasha the Dancing Flamingo still supervises operations with chaotic authority and absolutely believes she deserves root access.
 
 ## 🎁 Presentations & Resources
 
